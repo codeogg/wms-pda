@@ -1,0 +1,7 @@
+{
+  "name": "WMS PDA Pro2",
+  "description": "A professional warehouse management system PDA application designed for inventory packing, inbound, and outbound operations with real-time validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
